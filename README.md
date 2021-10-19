@@ -8,14 +8,14 @@
 
 -   👨‍💻 Connect with me **[@BhawaniShankar](https://www.linkedin.com/in/bhanulohar/)**
 
--   🌱 I’m currently learning **Data Structures and Algorithms.**
+-   🌱 I’m currently learning **Full Stack Web Development**
 
 
 
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
 
-<p align="center" style="display:flex; align-items: space-around" > 
+<p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
